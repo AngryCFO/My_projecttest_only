@@ -1,4 +1,4 @@
-# Only Test Assignment
+# Only Test Assignment - `Александра Бужор`
 
 Этот проект содержит автоматизированные тесты для сайта по ![адресу](https://kobor.teslaserver.ru/).
 
